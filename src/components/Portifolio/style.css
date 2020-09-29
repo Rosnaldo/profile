@@ -1,0 +1,63 @@
+.portifolio {
+  width: 80%;
+  height: 100%;
+  padding: 1% 2%;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, p, strong, a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+  margin: 1%;
+}
+
+a {
+  margin: 0.5em;
+  cursor: pointer;
+}
+
+a:visited {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+}
+
+p {
+  margin: 0.2em 0;
+}
+
+h1 {
+  font-size: 1.8em;
+  font-weight: 700;
+  margin: 0 0 1% 0;
+}
+
+div.after-portifolio {
+  box-sizing: border-box;
+  width: 70%;
+  height: 0.2em;
+  background: #149ddd;
+  margin: 0;
+}
+
+.backend, .frontend, .algoritms {
+  padding: 1% 3%;
+}
+
+div.after-backend,  div.after-frontend, div.after-algoritm {
+  box-sizing: border-box;
+  width: 7%;
+  height: 0.2em;
+  background: #149ddd;
+  margin: 0;
+} 
+
+h2 {
+  font-size: 1.4em;
+  font-weight: 700;
+  margin: 1% 0 1% 0;
+}
