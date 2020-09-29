@@ -33,5 +33,5 @@ const Lateral = () => {
     </div>
   );
 };
-// https://github.com/Rosnaldo
+
 export default Lateral;
