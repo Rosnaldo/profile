@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.337eb6ba.chunk.css",
-    "main.js": "/profile/static/js/main.fb6f3469.chunk.js",
-    "main.js.map": "/profile/static/js/main.fb6f3469.chunk.js.map",
+    "main.js": "/profile/static/js/main.d40ad83c.chunk.js",
+    "main.js.map": "/profile/static/js/main.d40ad83c.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.8771bb24.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.8771bb24.js.map",
-    "static/js/2.4c020959.chunk.js": "/profile/static/js/2.4c020959.chunk.js",
-    "static/js/2.4c020959.chunk.js.map": "/profile/static/js/2.4c020959.chunk.js.map",
+    "static/js/2.1aded358.chunk.js": "/profile/static/js/2.1aded358.chunk.js",
+    "static/js/2.1aded358.chunk.js.map": "/profile/static/js/2.1aded358.chunk.js.map",
     "index.html": "/profile/index.html",
-    "precache-manifest.22cb5ee944c2d2b959ea3d1ee7ec2ecd.js": "/profile/precache-manifest.22cb5ee944c2d2b959ea3d1ee7ec2ecd.js",
+    "precache-manifest.555dddf9cdce0db22619978816973f1f.js": "/profile/precache-manifest.555dddf9cdce0db22619978816973f1f.js",
     "service-worker.js": "/profile/service-worker.js",
     "static/css/main.337eb6ba.chunk.css.map": "/profile/static/css/main.337eb6ba.chunk.css.map",
-    "static/js/2.4c020959.chunk.js.LICENSE.txt": "/profile/static/js/2.4c020959.chunk.js.LICENSE.txt",
+    "static/js/2.1aded358.chunk.js.LICENSE.txt": "/profile/static/js/2.1aded358.chunk.js.LICENSE.txt",
     "static/media/Jest.png": "/profile/static/media/Jest.9edcb510.png",
     "static/media/Js.webp": "/profile/static/media/Js.7081eedd.webp",
     "static/media/Mongodb.png": "/profile/static/media/Mongodb.36718119.png",
@@ -19,6 +19,7 @@
     "static/media/Node.png": "/profile/static/media/Node.270f55ff.png",
     "static/media/Python.png": "/profile/static/media/Python.fd698436.png",
     "static/media/apontador.png": "/profile/static/media/apontador.80bd1fdb.png",
+    "static/media/pytest.svg": "/profile/static/media/pytest.a76d6f90.svg",
     "static/media/react.png": "/profile/static/media/react.25e63889.png",
     "static/media/resizable.mp4": "/profile/static/media/resizable.1a2dd153.mp4",
     "static/media/tree.png": "/profile/static/media/tree.51e23e0a.png",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8771bb24.js",
-    "static/js/2.4c020959.chunk.js",
+    "static/js/2.1aded358.chunk.js",
     "static/css/main.337eb6ba.chunk.css",
-    "static/js/main.fb6f3469.chunk.js"
+    "static/js/main.d40ad83c.chunk.js"
   ]
 }
