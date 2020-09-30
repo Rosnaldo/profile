@@ -10,6 +10,7 @@ import Mongodb from '../../Mongodb.png';
 import Js from '../../Js.webp';
 import react from '../../react.png';
 import Jest from '../../Jest.png';
+import pytest from '../../pytest.svg';
 
 import "./style.css";
 
@@ -30,7 +31,7 @@ const Portifolio = () => {
             <img className="logo" src={Python} />
             <img className="logo" src={Mysql} />
             <img className="logo" src={Mongodb} />
-            <img className="logo" src={Jest} />
+            <img className="logo" src={pytest} />
           </div>
           <h3>Blogs API</h3>
           <p><strong>Api REST CRUD</strong> com <strong>ORM sequelize</strong> arquitetura <strong>SOLID</strong> e autenticação <strong>JWT</strong>.</p>
@@ -146,6 +147,7 @@ const Portifolio = () => {
           <div className="logos">
             <img className="logo" src={Js} />
             <img className="logo" src={react} />
+            <img className="logo" src={Jest} />
           </div>
           <h3>Selectable, resizable and movable</h3>
           <p><strong>Lib</strong> em Js que permite ao componente. Os 3 comportamentos.</p>
